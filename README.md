@@ -6,3 +6,6 @@
 - 📫 Find me at https://www.ssw.com.au/people/yang-shen
 - 👭 I have a boy, yes he is Berber
 - ⚡ Fun fact: I am a cat lover with a severe allergy to cat fur 
+
+[![Yang's github stats](https://github-readme-stats.vercel.app/api?username=Berber-Mama&theme=dark)](https://github.com/Berber-Mama/github-readme-stats)
+
